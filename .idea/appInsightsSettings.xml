@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.loomi.bookfit" />
+                  <option name="mobileSdkAppId" value="1:377805371648:android:37c96025ee781084db1be5" />
+                  <option name="projectId" value="bookfit-app" />
+                  <option name="projectNumber" value="377805371648" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
